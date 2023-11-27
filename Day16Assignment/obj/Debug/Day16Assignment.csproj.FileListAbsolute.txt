@@ -1,0 +1,7 @@
+D:\mphasis Simplilearn\Day16\Day16Assignment\Day16Assignment\bin\Debug\Day16Assignment.exe.config
+D:\mphasis Simplilearn\Day16\Day16Assignment\Day16Assignment\bin\Debug\Day16Assignment.exe
+D:\mphasis Simplilearn\Day16\Day16Assignment\Day16Assignment\bin\Debug\Day16Assignment.pdb
+D:\mphasis Simplilearn\Day16\Day16Assignment\Day16Assignment\obj\Debug\Day16Assignment.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Day16\Day16Assignment\Day16Assignment\obj\Debug\Day16Assignment.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Day16\Day16Assignment\Day16Assignment\obj\Debug\Day16Assignment.exe
+D:\mphasis Simplilearn\Day16\Day16Assignment\Day16Assignment\obj\Debug\Day16Assignment.pdb
